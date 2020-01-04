@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7f4f6e2-3682-4a5f-85c2-f6c0fda18506" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VrYZSucFqzPQVDO2KjDLvJXTuX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.send_sms">
+    <configuration name="credentials" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Twilio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/credentials.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="send_sms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Twilio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/send_sms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.send_sms" />
+        <item itemvalue="Python.credentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7f4f6e2-3682-4a5f-85c2-f6c0fda18506" name="Default Changelist" comment="" />
+      <created>1578012735560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578012735560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1660" height="280" key="GridCell.Tab.0.bottom" timestamp="1578096214460">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1660" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1578096214460" />
+    <state width="1900" height="280" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1578034290541" />
+    <state width="1660" height="280" key="GridCell.Tab.0.center" timestamp="1578096214458">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1660" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1578096214458" />
+    <state width="1900" height="280" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1578034290540" />
+    <state width="1660" height="280" key="GridCell.Tab.0.left" timestamp="1578096214458">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1660" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1578096214458" />
+    <state width="1900" height="280" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1578034290540" />
+    <state width="1660" height="280" key="GridCell.Tab.0.right" timestamp="1578096214459">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1660" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1578096214459" />
+    <state width="1900" height="280" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1578034290541" />
+    <state x="233" y="133" key="SettingsEditor" timestamp="1578020007930">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="233" y="133" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1578020007930" />
+    <state x="266" y="136" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1578016147573" />
+    <state x="978" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1578019677788">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="978" y="374" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578019677788" />
+    <state x="1118" y="384" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1578015409048" />
+  </component>
+</project>
